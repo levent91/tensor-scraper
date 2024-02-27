@@ -1,0 +1,15 @@
+target/
+
+.vscode/
+.idea/
+.vscodium/
+.vs/
+.todo.txt
+
+Cargo.lock
+
+*.log
+*.swp
+
+build/
+
